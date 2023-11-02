@@ -1,0 +1,10 @@
+create react application
+install bootstrap or implement bootstrap 5
+create function component 
+uses props in function components(pass and recive) 
+use react hooks like as state(apply & implement state in function component)
+apply event handelling like onClick and onChange
+retrive input values form users using form controls like input and select 
+apply inline style sheet on such tag
+apply json array from using state with useEffect intialize with that array value
+using map function and map method iterate json array as json object  
